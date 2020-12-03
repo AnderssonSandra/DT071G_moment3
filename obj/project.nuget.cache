@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7m3NyXI9WWTFvtwKqdeLIvXBACwSdxm2N7t/sy/13lk2SdvwAtvyFXa1Mk2a5UVjvkasG20buVtDHAbM2mackQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SandraAndersson\\source\\repos\\moment3_guestbook\\moment3_guestbook\\moment3_guestbook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SandraAndersson\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
